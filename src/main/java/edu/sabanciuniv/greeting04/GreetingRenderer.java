@@ -1,7 +1,8 @@
 package edu.sabanciuniv.greeting04;
 
-public interface GretingRenderer {
+public interface GreetingRenderer {
 
     public void render();
-    public void setGreetingProvider(String greeting);
+
+    public void setGreetingProvider(GreetingProvider provider);
 }

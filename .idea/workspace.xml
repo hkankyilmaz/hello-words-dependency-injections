@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ebb77d2-2495-4f55-8759-4c540ecb49bf" name="Changes" comment="" />
+    <list default="true" id="8ebb77d2-2495-4f55-8759-4c540ecb49bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/resources/application.propertiess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting01/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting01/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting02/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting02/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/HelloWorldGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/HelloWorldGreetingProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/StandardOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/StandardOutputRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/ErrorOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/ErrorOutputRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/HelloWorldGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/HelloWorldGreetingProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/SelamGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/SelamGreetingProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/StandardOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/StandardOutputRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/ErrorOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/ErrorOutputRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/HelloWorldGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/HelloWorldGreetingProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/SelamGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/SelamGreetingProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/StandardOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/StandardOutputRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +41,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -22,22 +56,119 @@
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="2elYbQ8o7rszJgKGLx7x8mfdsAl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.hellow-words-dependency-injections [:Application.main()].executor": "Run",
+    "Gradle.hellow-words-dependency-injections [:Main.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hakankarayilmaz/Documents/IntelliJ/hellow-words-dependency-injections/src/main/java/edu/sabanciuniv/greeting05/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/hakankarayilmaz/Documents/IntelliJ/hellow-words-dependency-injections/src/main/java/edu/sabanciuniv/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05" />
+      <recent name="$PROJECT_DIR$/src/main/java/edu/sabanciuniv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.edu.sabanciuniv.greeting05.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sabanciuniv.greeting02.Application" />
+      <module name="hellow-words-dependency-injections.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sabanciuniv.greeting02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sabanciuniv.Main" />
+      <module name="hellow-words-dependency-injections.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sabanciuniv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.sabanciuniv.greeting03.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sabanciuniv.greeting03.Application" />
+      <module name="hellow-words-dependency-injections.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sabanciuniv.greeting03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.sabanciuniv.greeting04.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sabanciuniv.greeting04.Application" />
+      <module name="hellow-words-dependency-injections.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sabanciuniv.greeting04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.sabanciuniv.greeting05.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sabanciuniv.greeting05.Application" />
+      <module name="hellow-words-dependency-injections.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sabanciuniv.greeting05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.edu.sabanciuniv.greeting05.Application" />
+        <item itemvalue="Application.edu.sabanciuniv.greeting04.Application" />
+        <item itemvalue="Application.edu.sabanciuniv.greeting03.Application" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712480702850</updated>
-      <workItem from="1712480703874" duration="1000" />
+      <workItem from="1712480703874" duration="8619000" />
     </task>
     <servers />
   </component>
@@ -65,10 +196,14 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/sabanciuniv/Main.java</url>
-          <line>13</line>
+          <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,21 +1,18 @@
-package edu.sabanciuniv.greeting04;
+package edu.sabanciuniv.greeting05;
 
 public class Application {
     public static void main(String[] args) {
 
-        GreetingRenderer renderer = new StandardOutputRenderer();
-        GreetingRenderer rendererTwo = new ErrorOutputRenderer();
+        Factory factory = GreetingFactory.getInstance();
+
+        GreetingRenderer renderer = factory.getGreetingRenderer();
+        GreetingProvider provider = factory.getGreetingProvider();
 
 
-        GreetingProvider provider = new HelloWorldGreetingProvider();
-        GreetingProvider providerTwo = new SelamGreetingProvider();
-
-
-        renderer.setGreetingProvider(providerTwo);
+        renderer.setGreetingProvider(provider);
         renderer.render();
 
-        rendererTwo.setGreetingProvider(provider);
-        rendererTwo.render();
+
 
     }
 }

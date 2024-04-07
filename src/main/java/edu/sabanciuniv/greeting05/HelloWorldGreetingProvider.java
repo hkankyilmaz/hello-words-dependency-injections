@@ -1,4 +1,4 @@
-package edu.sabanciuniv.greeting04;
+package edu.sabanciuniv.greeting05;
 
 public class HelloWorldGreetingProvider implements GreetingProvider {
 
