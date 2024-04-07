@@ -1,4 +1,4 @@
-package edu.sabanciuniv.greeting07;
+package edu.sabanciuniv.greeting08Spring;
 
 
 public class ArabicGreetingProvider implements GreetingProvider {
