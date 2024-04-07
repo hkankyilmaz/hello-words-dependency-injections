@@ -4,32 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ebb77d2-2495-4f55-8759-4c540ecb49bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/resources/application.propertiess" afterDir="false" />
+    <list default="true" id="8ebb77d2-2495-4f55-8759-4c540ecb49bf" name="Changes" comment="unneccessary main class deleted">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting01/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting01/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting02/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting02/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/HelloWorldGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/HelloWorldGreetingProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/StandardOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting03/StandardOutputRenderer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/ErrorOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/ErrorOutputRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/GreetingRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/HelloWorldGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/HelloWorldGreetingProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/SelamGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/SelamGreetingProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/StandardOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting04/StandardOutputRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/ErrorOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/ErrorOutputRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/GreetingRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/HelloWorldGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/HelloWorldGreetingProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/SelamGreetingProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/SelamGreetingProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/StandardOutputRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/StandardOutputRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/sabanciuniv/greeting05/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,23 +164,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712480702850</updated>
-      <workItem from="1712480703874" duration="8619000" />
+      <workItem from="1712480703874" duration="9168000" />
     </task>
+    <task id="LOCAL-00001" summary="factory pattern added">
+      <option name="closed" value="true" />
+      <created>1712490986187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712490986187</updated>
+    </task>
+    <task id="LOCAL-00002" summary="unneccessary main class deleted">
+      <option name="closed" value="true" />
+      <created>1712491260211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712491260211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/sabanciuniv/Main.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="factory pattern added" />
+    <MESSAGE value="unneccessary main class deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="unneccessary main class deleted" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
